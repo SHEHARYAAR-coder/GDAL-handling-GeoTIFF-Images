@@ -1,4 +1,3 @@
-```markdown
 # Automatic Georeferencing System
 
 Automatic Georeferencing System is a desktop application designed to automatically georeference aerial images by aligning them with a georeferenced TIF reference file. The application uses feature detection, matching, and homography estimation to compute the geographic coordinates (latitude and longitude) of selected points in an aerial image.
